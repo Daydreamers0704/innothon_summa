@@ -1,0 +1,16 @@
+{"intents": [
+        {
+            "intent": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Good morning",
+                "How are you?"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi there! What can I do for you?"
+            ]
+        }
+    ]
+}
